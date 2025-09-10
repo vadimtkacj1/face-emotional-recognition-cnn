@@ -6,6 +6,11 @@ A deep learning project for facial emotion recognition using Convolutional Neura
 
 This project implements a CNN model to classify facial expressions into 7 different emotion categories. The model uses grayscale images of size 48x48 pixels and employs various data augmentation techniques to improve performance.
 
+## Dataset
+
+Took dataset here
+https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/data
+
 ## Features
 
 -   **Deep CNN Architecture**: 5 convolutional layers with batch normalization and dropout
